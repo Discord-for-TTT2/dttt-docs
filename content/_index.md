@@ -1,15 +1,14 @@
 ---
-title: My Site
+title: Discord for TTT2 - Documentation
 toc: false
 ---
 
 This is the landing page.
 
-## Explore
+## Addons
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+{{< card link="dttt" title="DTTT" icon="book-open" >}}
 {{< /cards >}}
 
 ## Documentation
