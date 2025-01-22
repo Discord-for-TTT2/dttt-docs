@@ -10,7 +10,3 @@ This is the landing page.
 {{< cards >}}
 {{< card link="dttt" title="DTTT" icon="book-open" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
