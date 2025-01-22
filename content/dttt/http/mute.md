@@ -6,9 +6,7 @@ sidebar:
   open: true
 ---
 
-Sends a request to get the Discord id for the name set in Garry's Mod/Steam.
-
-Used internally for auto-mapping SteamID<->DiscordID.
+Sends a request to mute/unmute a specified Discord user.
 
 ## HTTP Request
 
