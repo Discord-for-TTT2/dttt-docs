@@ -1,5 +1,5 @@
 ---
-title: HTTP - Discord for TTT2 - Base Addon
+title: HTTP
 type: docs
 prev: /dtt
 sidebar:

@@ -1,9 +1,7 @@
 ---
-title: ConVars
+title: POST
 type: docs
 prev: /dtt
 sidebar:
   open: true
 ---
-
-placeholder

@@ -1,9 +1,7 @@
 ---
 title: Net
 type: docs
-prev: /dtt
+prev: /dttt
 sidebar:
   open: true
 ---
-
-placeholder

@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Discord for TTT2
 
 # import hextra as module
 module:
@@ -18,8 +18,8 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: DTTT
+      pageRef: /dttt
       weight: 1
     - name: About
       pageRef: /about
@@ -33,24 +33,34 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/Discord-for-TTT2"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
+  page:
+    width: full
+
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
+    enable: false
+    base: "https://github.com/Discord-for-TTT2"
+
+  search:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    type: flexsearch
+
+    flexsearch:
+      index: content
+      tokenize: full
+
+  theme:
+    default: system
+    displayToggle: true
