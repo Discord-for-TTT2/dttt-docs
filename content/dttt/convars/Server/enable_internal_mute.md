@@ -1,5 +1,5 @@
 ---
-title: dttt_enable_mute_logic
+title: dttt_enable_internal_mute
 type: docs
 prev: /dttt/convars
 sidebar:
@@ -8,5 +8,5 @@ sidebar:
 
 > [!Note] Information
 > **Default**: "1"  
-> **Helptext**: "Enables the complete mute logic"
+> **Helptext**: "Enables the internal muting"  
 > **Flags**: {FCVAR_ARCHIVE}  

@@ -1,5 +1,5 @@
 ---
-title: dttt_enable_mute
+title: dttt_enable_internal_unmute
 type: docs
 prev: /dttt/convars
 sidebar:
@@ -8,5 +8,5 @@ sidebar:
 
 > [!Note] Information
 > **Default**: "1"  
-> **Helptext**: "Enables muting"
+> **Helptext**: "Enables internal unmuting"  
 > **Flags**: {FCVAR_ARCHIVE}  
