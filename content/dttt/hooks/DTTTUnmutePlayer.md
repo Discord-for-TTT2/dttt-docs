@@ -13,7 +13,7 @@ DTTTUnmutePlayer(Player ply)
 ## Description
 Can be called to unmute the specified player.
 
-Running this hook directly avoids checks for [dttt_enable_mute_logic]({{<ref "enable_mute_logic">}}) and [dttt_enable_unmute]({{<ref "enable_mute">}})
+Running this hook directly avoids checks for [dttt_enable_internal_mute_logic]({{<ref "enable_internal_mute_logic">}}) and [dttt_enable_internal_unmute]({{<ref "enable_internal_unmute">}})
 
 ### Example
 ```lua
