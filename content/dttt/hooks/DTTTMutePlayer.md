@@ -13,7 +13,7 @@ DTTTMutePlayer(Player ply)
 ## Description
 Can be called to mute the specified player.
 
-Running this hook directly avoids checks for [dttt_enable_mute_logic]({{<ref "enable_mute_logic">}}) and [dttt_enable_mute]({{<ref "enable_mute">}})
+Running this hook directly avoids checks for [dttt_enable_internal_mute_logic]({{<ref "enable_internal_mute_logic">}}) and [dttt_enable_internal_mute]({{<ref "enable_internal_mute">}})
 
 ### Example
 ```lua
